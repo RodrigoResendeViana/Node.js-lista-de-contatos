@@ -143,9 +143,9 @@ A API permite que os usuários:
     Authorization: Bearer seu-token-jwt
     ```
     
-  ##Contribuição
-    1 - Faça um fork do projeto
-    2 - Crie uma branch para sua feature (git checkout -b feature/nova-feature)
-    3 - Commit suas alterações (git commit -m 'Adicionei uma nova feature')
-    4 - Faça o push para a branch (git push origin feature/nova-feature)
-    5 - Abra um Pull Request
+  ## Contribuição
+    1. Faça um fork do projeto
+    2. Crie uma branch para sua feature (git checkout -b feature/nova-feature)
+    3. Commit suas alterações (git commit -m 'Adicionei uma nova feature')
+    4. Faça o push para a branch (git push origin feature/nova-feature)
+    5. Abra um Pull Request
